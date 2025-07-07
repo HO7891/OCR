@@ -1,0 +1,7 @@
+{
+  "json_folder": "output",
+  "csv_folder": "CSVs",
+  "mail_to": "george.ho@zerone.com.tw;guing88@gmail.com",
+  "mail_subject": "解析憑證CSV",
+  "mail_body": "請查收附件所有CSV檔案，謝謝"
+}
